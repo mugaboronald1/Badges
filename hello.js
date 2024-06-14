@@ -1,1 +1,1 @@
- console.log("Hellooo")
+const pair = "extraordinaire";
